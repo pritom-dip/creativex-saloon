@@ -1,0 +1,8 @@
+@media only screen and (max-width: 767px){
+    .hero-title{
+        font-size: 32px !important;
+    }
+    .custom-width.w-50{
+        width: 100% !important;
+    }
+}

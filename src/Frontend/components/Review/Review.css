@@ -1,0 +1,8 @@
+.single-review{
+    cursor: pointer;
+    transition: 0.5s;
+}
+.single-review:hover{
+    transform: translateY(-50px);
+    transition: 0.5s;
+}

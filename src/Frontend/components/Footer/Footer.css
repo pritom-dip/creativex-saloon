@@ -1,0 +1,21 @@
+.footer-wrapper .logo_name{
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.footer-wrapper a{
+    color: #fff;
+}
+
+.footer-wrapper h3{
+    color: #fff;
+}
+
+.footer-wrapper .about-menu{
+    padding: 0px;
+    list-style: none;
+}
+.footer-wrapper .about-menu li{
+    margin-bottom: 10px;
+    font-size: 18px;
+}

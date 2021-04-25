@@ -1,0 +1,23 @@
+.hero-banner{
+    height: 100vh;
+    background: url('../../../assets/images/slider1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-title{
+    font-size: 60px;
+}
+.hero-description{
+    font-size: 22px;
+}
+.site-btn{
+    border-radius: 50px;
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+}
+.site-btn:hover{
+    color: #fff;
+    box-shadow: none;
+}
